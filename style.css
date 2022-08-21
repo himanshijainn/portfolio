@@ -271,6 +271,7 @@ section .title::after{
 .teams .title::after{
     background-image: linear-gradient(#cd5c5c,#e9967a);
     content: "what I have done";
+    margin-top: 60px;
     color: #111;
 }
 .services .serv-content .card{
