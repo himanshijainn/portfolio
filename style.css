@@ -270,7 +270,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background-image: linear-gradient(#cd5c5c,#e9967a);
-    content: "what I did"
+    content: "what I did";
     color: #111;
 }
 .services .serv-content .card{
