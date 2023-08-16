@@ -1,0 +1,59 @@
+
+
+Fonts
+
+----------------------------------------------
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600&family=Pacifico&family=Source+Sans+Pro:wght@400;600;700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+----------------------------------------------
+
+
+Skills
+----------------------------------------------
+I'm passionate about crafting designs that communicate effortlessly, embodying cleanliness, minimalism, and simplicity.
+I LIKE TO DESIGN
+Web Design
+Mobile Apps
+TOOLS
+Figma
+Adobe XD
+
+I hold the utmost regard for the business or brand I am entrusted to create for, and find great joy in transforming innovative ideas into tangible realities.
+SKILLS
+Html, Css, Javascript, React, Sass, Bootstrap.
+
+TOOLS
+VScode, Github, etc.
+
+----------------------------------------------
+
+About Text
+
+----------------------------------------------
+As an Indian front-end developer, I specialize in crafting simple yet stunning websites with exceptional user experiences.
+
+I'm an avid explorer of the frontend stack, always eager to tackle new challenges and build outstanding projects.
+
+I consider everything as art when approached with conscious intent. Connect with me through my social links and let's embark on a shared creative journey.
+----------------------------------------------
+
+
+Theme
+----------------------------------------------
+    body:"#FCF6F4",
+    text:"#000000",
+    fontFamily:"'Source Sans Pro', sans-serif",
+    bodyRgba : "252, 246, 244",
+    textRgba:"0,0,0",
+
+
+----------------------------------------------
+
+
+
+
+
+
